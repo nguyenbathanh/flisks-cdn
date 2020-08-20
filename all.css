@@ -10,3 +10,13 @@
 .box-shadow {
     box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, .05);
 }
+
+.flisk-brand-top {
+    width: 30px;
+    height: 30px;
+}
+
+.flisk-brand-footer {
+    width: 30px;
+    height: 30px;
+}
